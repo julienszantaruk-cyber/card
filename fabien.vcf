@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Duco;Fabien;;;
+FN:Fabien DUCO
+ORG:UTTOP
+TITLE:Vice President — International Relations
+TEL;TYPE=WORK,VOICE:+33670324844
+EMAIL;TYPE=WORK:international@uttop.fr
+URL;TYPE=WORK:https://www.uttop.fr/en/international.html
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/fabien-duco-a0283663/
+ADR;TYPE=WORK:;;Tarbes;;;France
+NOTE:Vice President in charge of International Relations
+END:VCARD

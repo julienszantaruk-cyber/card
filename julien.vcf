@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Grimond-Szantaruk;Julien;;;
+FN:Julien Grimond-Szantaruk
+ORG:UTTOP
+TITLE:Head of Communications
+TEL;TYPE=WORK,VOICE:+33629672975
+EMAIL;TYPE=WORK:julien.grimond-szantaruk@uttop.fr
+URL;TYPE=WORK:https://www.uttop.fr/en/international.html
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/juliengrimondszantaruk/
+ADR;TYPE=WORK:;;Tarbes;;;France
+NOTE:Head of Communications at UTTOP
+END:VCARD
